@@ -54,6 +54,8 @@ public class Pelanggan extends DataPelanggan {
         System.out.println("Harga           : " + hargaBarang);
         System.out.println("Jumlah          : " + jumlahBarang);
         System.out.println("Total Bayar     : " + this.totalBayar);
+        System.out.println("+++++++++++++++++++++");
+        System.out.println("Kasir           : Ari");
 
 
     }
